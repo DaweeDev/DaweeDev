@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Dave and everywhere you go you will find me as DaweeDev.
-- 👀 I'm a solo game developer and I love what I'm doing. I try to bring out there cool games that people will enjoy playing.
+- 👀 I'm a Unity C# game developer. I try to bring out there cool games that people will enjoy playing.
 
 
 <!---
